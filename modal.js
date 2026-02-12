@@ -1,3 +1,4 @@
+// powiekszanie menu po kliknięciu
 const modal = document.createElement('div');
 modal.classList.add('menu-modal');
 document.body.appendChild(modal);
